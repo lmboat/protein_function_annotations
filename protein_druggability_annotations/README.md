@@ -5,6 +5,9 @@ UniProt accessions were collected from proteins with available ChEMBL and DrugBa
 
 ## Setup
 Download most recent version of UniProtKB proteins with associated keywords & HPA FDA annotations. Place downloaded files into the data folder.
+```
+pip3 install venn
+```
 
 ### UniProtKB
 [https://rest.uniprot.org/uniprotkb/search?fields=accession%2Creviewed%2Cid%2Cprotein_name%2Cgene_names%2Corganism_name%2Clength%2Cgene_primary%2Cgene_synonym%2Ckeyword&format=xlsx&query=%28Human%29+AND+%28model_organism%3A9606%29+AND+%28reviewed%3Atrue%29&size=500](https://www.uniprot.org/uniprotkb?facets=model_organism%3A9606%2Creviewed%3Atrue&fields=accession%2Cid%2Cgene_names%2Cgene_primary%2Cgene_synonym%2Cprotein_name%2Cxref_hpa%2Cxref_chembl%2Cxref_drugbank&query=human&view=table)
