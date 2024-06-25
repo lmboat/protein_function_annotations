@@ -1,4 +1,4 @@
-# protein_function_annotations
+# Protein Function Classifications
 
 ## About
 Protein functions are based on annotations in the UniProtKB/Swiss-Prot database (ex. 2401-release), Human Protein Atlas (ex. version 22.0) and the ScaPD database. UniProt keywords were parsed to classify proteins into five broad functional categories: chaperones/transporter/channel/receptor, enzyme, nucleic acid and small molecule binding, scaffolding/modulator/adaptor, transcription factor/regulator and uncategorized. Transcription factors, channels and transporters were also found using protein class descriptions from the HPA. In addition, examples of experimentally validated scaffolding proteins were collected from the ScaPD database. For proteins in more than one category, annotations were prioritized based on the following: enzyme > chaperones/transporter/channel/receptor > scaffolding/modulator/adaptor > transcription factor/regulator > nucleic acid and small molecule binding.
