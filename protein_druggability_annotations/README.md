@@ -1,7 +1,7 @@
 # ChEMBL, DrugBank and FDA Annotations
 
 ## About 
-UniProt accessions were collected from proteins with available ChEMBL and DrugBank UniProt annotations (2401_release). Data from the Human Protein Atlas (HPA) version 22.0 was downloaded and parsed to obtain genes targeted by FDA approved drugs. HGNC gene symbols were mapped to UniProt accessions to collect proteins targeted by FDA approved drugs. 
+UniProt accessions were collected from proteins with available ChEMBL and DrugBank UniProt annotations (2401_release). Data from the Human Protein Atlas (HPA) version 22.0 was downloaded and parsed to obtain genes targeted by FDA approved drugs. Protein accessions provided by HPA were mapped to UniProtKB accessions to collect proteins targeted by FDA approved drugs. 
 
 ## Setup
 Download most recent version of UniProtKB proteins with associated keywords & HPA FDA annotations. Place downloaded files into the data folder.
