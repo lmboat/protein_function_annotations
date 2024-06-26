@@ -22,3 +22,4 @@ Do my novel chemical compounds and/or proteomics method...
 ## Citation:
 1. Boatner LM, Palafox MF, Schweppe DK, Backus KM. CysDB: a human cysteine database based on experimental quantitative chemoproteomics. Cell Chem Biol. 2023 Jun 15;30(6):683-698.e3. doi: 10.1016/j.chembiol.2023.04.004. Epub 2023 Apr 28. PMID: 37119813; PMCID: PMC10510411.
 2. Yan T, Julio AR, Villanueva M, Jones AE, Ball AB, Boatner LM, Turmon AC, Nguyễn KB, Yen SL, Desai HS, Divakaruni AS, Backus KM. Proximity-labeling chemoproteomics defines the subcellular cysteinome and inflammation-responsive mitochondrial redoxome. Cell Chem Biol. 2023 Jul 20;30(7):811-827.e7. doi: 10.1016/j.chembiol.2023.06.008. Epub 2023 Jul 6. PMID: 37419112; PMCID: PMC10510412.
+3. Takechi S, Ngo C, Burton N, Villanueva M, Boatner L, Yu F, Kim P, Biletch E, Turmon A, Nesvizhskii A, Backus, K. Silyl Ether Enables High Coverage Chemoproteomic Interaction Site Mapping. ChemRxiv. 2024 Jun 10. 
