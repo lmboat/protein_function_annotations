@@ -3,7 +3,7 @@
 ## About
 Enrichment of X gene set library terms were performed using the Enrichr package. UniProt protein identifiers were mapped to Entrez gene symbols as input for Enrichr. Custom background gene sets were established using all experimentally detected proteins. P-values were computed from Fisher’s exact test to determine the significance of each enriched term. The negative log of these p-values were calculated using R. 
 
-## Setup
+## Set Up
 ```
 pip3 install gseapy
 ```
